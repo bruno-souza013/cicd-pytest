@@ -1,6 +1,6 @@
 name: Testes com pytest
 
-on: [push, oull request]
+on: [push, pull request]
 
 jobs:
   test:
