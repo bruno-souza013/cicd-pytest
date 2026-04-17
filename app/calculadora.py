@@ -1,4 +1,10 @@
-def soma(a,b):
-    return a+b
-def sub(a,b):
-    return a-b
+import os
+import pytest
+
+
+def soma(a, b):
+    return a + b
+
+
+def sub(a, b):
+    return a - b
